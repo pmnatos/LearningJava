@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Threads" />
         <module name="Callable" />
+        <module name="PracticeProblems" />
       </profile>
     </annotationProcessing>
   </component>
