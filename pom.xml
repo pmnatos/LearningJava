@@ -13,6 +13,7 @@
         <module>Callable</module>
         <module>PracticeProblems</module>
         <module>Lambdas</module>
+        <module>SoftwareArchitectureAssignments</module>
     </modules>
 
     <dependencies>
